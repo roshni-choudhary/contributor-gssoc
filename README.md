@@ -1,2 +1,2 @@
 # contributor-gssoc
-Author- Roshni Choudhary
+Author- Roshni Choudhary(gssoc)
